@@ -10,9 +10,9 @@ import requests
 
 # ======== НАСТРОЙКИ ========
 
-TELEGRAM_BOT_TOKEN = "8091212480:AAHO-FB3_9SvjVXynlzeJs7tanwmnPW_t8o"
+TELEGRAM_BOT_TOKEN = "///////"
 
-LM_STUDIO_URL = "http://localhost:1234/v1/chat/completions"
+LM_STUDIO_URL = "........."
 
 SYSTEM_PROMPT = "Ты дружелюбный ассистент. Отвечай кратко и понятно."
 
